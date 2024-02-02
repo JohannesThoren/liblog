@@ -1,0 +1,11 @@
+*.cmake
+*CMakeCache.txt
+liblog.*
+Makefile
+*output.log
+*test_logger.exe
+*test_logger.pdb
+CMakeFiles/
+Build/
+*html/
+man/
